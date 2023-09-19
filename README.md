@@ -2,7 +2,7 @@
 > Really simple, intentionally-limited versions of web3 protocols & apps. By 
 > distilling them to their roots, we can better understand how they work.
 
-lil web3 Vyper aims to build both [lil web3](https://github.com/m1guelpf/lil-web3) from [m1guel](https://github.com/m1guelpf) in Vyper. All descriptions/deconstruct are inspiration taken from m1guel's repo and not my own. Go show them some love for the work they have done.
+lil web3 Vyper aims to build [lil web3](https://github.com/m1guelpf/lil-web3) from [m1guel](https://github.com/m1guelpf) in Vyper. All descriptions/deconstruct are inspiration taken from m1guel's repo and not my own. Go show them some love for the work they have done.
 
 ## Table of contents
 - [lil-web3](#lil-web3)
