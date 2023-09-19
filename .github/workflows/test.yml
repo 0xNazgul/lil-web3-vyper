@@ -22,6 +22,11 @@ jobs:
         with:
           version: nightly
 
+      - name: Install Snekmate
+        uses: pcaversaccio/snekmate@v0.0.2
+        with:
+          version: nightly          
+
       - name: Run Forge build
         run: |
           forge --version
